@@ -6005,6 +6005,18 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "age": "437",
+      "description": "He is not a real monster, only an illusion designed by a desperate fool at the end of his pitiful rope.",
+      "name": "TestMonster",
+      "id": 1002
+    },
+    {
+      "age": "438",
+      "description": "Born a year before, he is the older and wiser brother of the infamous and fictional TestMonster",
+      "name": "TestMonster2",
+      "id": 1003
     }
   ]
 }
